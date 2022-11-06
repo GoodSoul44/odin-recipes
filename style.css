@@ -1,0 +1,37 @@
+body{
+    background-color: azure;
+}
+
+h1,h2, p {
+    text-align: center;
+}
+
+#lasagna-link {
+    color:rgb(211, 154, 49);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#dumplings-link {
+    color: peachpuff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#beef-stew-link{
+    color: rgb(219, 54, 103);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#meatloaf-link{
+    color: rgb(138, 75, 187);
+}
+
+.recipes-header{
+    font-family: 'Lucida Handwriting', 'Brush Script MT', cursive;
+    font-size: 70px;
+    background-color: aquamarine;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
