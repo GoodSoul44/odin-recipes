@@ -1,5 +1,5 @@
 body{
-    background-color: azure;
+    background-color: rgb(152, 216, 247);
 }
 
 h1,h2, p {
@@ -43,9 +43,24 @@ img {
     height: 400px;
     width: auto;
 }
+.main-image{
+    background-color: blanchedalmond;
+}
 .description{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     background-color: rgb(236, 145, 183);;
     font-weight: 500;
+}
+
+.ingredients{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: cornsilk;
+}
+
+.steps{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: bisque;
 }
