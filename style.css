@@ -17,7 +17,7 @@ h1,h2, p {
 }
 
 #beef-stew-link{
-    color: rgb(219, 54, 103);
+    color: rgb(199, 95, 95);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -27,8 +27,16 @@ h1,h2, p {
 
 .recipes-header{
     font-family: 'Lucida Handwriting', 'Brush Script MT', cursive;
+    font-size: 50px;
+    background-color: rgb(242, 92, 23);
+    font-weight: 800;
+}
+
+.recipes-header.title{
+    font-family: 'Lucida Handwriting', 'Brush Script MT', cursive;
     font-size: 70px;
-    background-color: aquamarine;
+    background-color: rgb(90, 214, 18);
+    font-weight: 800;
 }
 
 img {
