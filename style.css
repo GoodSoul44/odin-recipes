@@ -43,3 +43,9 @@ img {
     height: 400px;
     width: auto;
 }
+.description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: rgb(236, 145, 183);;
+    font-weight: 500;
+}
